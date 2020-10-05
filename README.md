@@ -2,6 +2,10 @@
 
 ## Kwame V. Taylor, Codeup Student 2020, Darden Cohort
 
+**Currently**: Taking a break from coding intents to study up on neural networks, tkinter, keras.
+
+---
+
 Creating a simple Python chatbot using natural language processing and deep learning.
 
 To run the chatbot, download this repo and then use ipython in your terminal to run chatgui.py.
